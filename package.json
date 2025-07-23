@@ -19,7 +19,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "ethers": "^4.0.27"
+    "ethers": "^5.0.0"
   },
   "devDependencies": {
     "pkg": "^5.4.1"
